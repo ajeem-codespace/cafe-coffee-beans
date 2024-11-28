@@ -1,1 +1,1 @@
-This is the first website i made after learning basic html and css.
+This is the first static website i made after learning html and css
